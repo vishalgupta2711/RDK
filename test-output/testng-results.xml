@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-20T19:19:44 IST" name="Default suite" finished-at="2020-05-20T19:20:55 IST" duration-ms="71052">
+    <groups>
+    </groups>
+    <test started-at="2020-05-20T19:19:44 IST" name="Default test" finished-at="2020-05-20T19:20:55 IST" duration-ms="71052">
+      <class name="com.RDK.qa.testcases.RegistrationPageRDKTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.RDK.qa.testcases.RegistrationPageRDKTest@25d250c6]" started-at="2020-05-20T19:19:44 IST" name="setUp" finished-at="2020-05-20T19:20:05 IST" duration-ms="21659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateRegistrationUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.RDK.qa.testcases.RegistrationPageRDKTest@25d250c6]" started-at="2020-05-20T19:20:10 IST" name="validateRegistrationUser" data-provider="getRegistrationData" finished-at="2020-05-20T19:20:55 IST" duration-ms="44297" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Friend]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Vamsi]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1111111140]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1212]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1920]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[231456917]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[test1@1004.com]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[test123]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Christian]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Bengali]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Non-manglik]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Never Married]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[5' 11]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[Middle class]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Joint]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[Liberal]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[MCA]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[Private]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[Quality Assurance Engineer]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[Rs.]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[600000]]>
+              </value>
+            </param>
+            <param index="23">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="24">
+              <value>
+                <![CDATA[Maharashtra]]>
+              </value>
+            </param>
+            <param index="25">
+              <value>
+                <![CDATA[Mumbai]]>
+              </value>
+            </param>
+            <param index="26">
+              <value>
+                <![CDATA[Hi This is About you section!Cheers]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegistrationUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.RDK.qa.testcases.RegistrationPageRDKTest@25d250c6]" started-at="2020-05-20T19:20:55 IST" name="tearDown" finished-at="2020-05-20T19:20:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.RDK.qa.testcases.RegistrationPageRDKTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
