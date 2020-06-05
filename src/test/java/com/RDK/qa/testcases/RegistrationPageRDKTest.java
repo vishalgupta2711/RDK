@@ -45,7 +45,7 @@ public class RegistrationPageRDKTest extends TestBaseRDK {
 		
 		registrationPage.registerUser(IMLookingFor, Gender, Name, Mobile, DOB_ddmm, DOB_yyyy, AltMobNo, Email, Password,
 				Religion, MotherTongue, Dosh, MaritalStatus, Height, FamilyStatus, 
-				FamilyType, FamilyValues, AnyDisability, HighestEducation, EmployedIn, Occupation, 
+					FamilyType, FamilyValues, AnyDisability, HighestEducation, EmployedIn, Occupation, 
 				AnnualIncomeCurrency, AnnualIncomeAmt, Country, State, City, AboutYou);
 		
 	}
