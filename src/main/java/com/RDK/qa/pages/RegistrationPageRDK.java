@@ -184,9 +184,10 @@ public class RegistrationPageRDK extends TestBaseRDK {
 
 			System.out.println(list.get(i).getText());
 
-			if (list.get(i).getText().equals("Myself")) {
+			if (list.get(i).getText().equals(IMLookingFor)) {
 				list.get(i).click();
-			} else if (list.get(i).getText().equals("Son")) {
+			}
+			/*} else if (list.get(i).getText().equals("Son")) {
 				list.get(i).click();
 			} else if (list.get(i).getText().equals("Daughter")) {
 				list.get(i).click();
@@ -198,7 +199,7 @@ public class RegistrationPageRDK extends TestBaseRDK {
 				list.get(i).click();
 			} else if (list.get(i).getText().equals("Friend")) {
 				list.get(i).click();
-			}
+			}*/
 
 		}
 
